@@ -4,8 +4,9 @@ public class f1 {
         System.out.println("bro am staying in banglore as a tenet");
                //----------------------------------------------------------
         System.out.println("bro1 am staying in banglore as a tenet");
-        System.out.println("bro2 am staying in banglore as a tenet");
         System.out.println("bro3 am staying in banglore as a tenet");
+
+
 
         
 	}
